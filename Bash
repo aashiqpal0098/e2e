@@ -1,1 +1,6 @@
 pip install streamlit requests beautifulsoup4
+pip install beautifulsoup4
+source venv/bin/activate
+pip install beautifulsoup4
+streamlit run Aashiq Pal.py
+pip list
