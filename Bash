@@ -1,1 +1,1 @@
-streamlit run Aashiq Pal.py
+pip install streamlit requests beautifulsoup4
